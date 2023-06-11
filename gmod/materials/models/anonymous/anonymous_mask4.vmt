@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "Models/anonymous/anonymous_mask4"
+                "$bumpmap" "models\anonymous/anonymous_mask_normal"
+	"$halflambert" 1
+
+	"$phong" 1
+	"$phongboost" 4
+	"$phongexponent" 60
+	"$phongfresnelranges" "[1 1 1]"
+}

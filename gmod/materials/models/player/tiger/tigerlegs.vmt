@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" "models/player/tiger/tigerlegs"
+                "$bumpmap"       "models/player/tiger/tigerlegsN"
+
+//	"$phong" "1"
+//	"$phongexponent" "20"
+//	"$phongboost" ".05"	
+
+ //	"$blendtintbybasealpha" "0" 
+// 	"$blendtintcoloroverbase" "1"  
+
+	"$rimlight" "1"
+	"$rimlightexponent" "4"
+	"$rimlightboost" ".2"
+
+}

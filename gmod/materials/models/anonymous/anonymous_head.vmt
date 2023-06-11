@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\anonymous/anonymous_head"
+	"$halflambert" 1
+	"$phong" 1
+	"$phongboost" 1
+	"$phongexponent" 50
+	"$phongfresnelranges" "[0 1 1]"
+}

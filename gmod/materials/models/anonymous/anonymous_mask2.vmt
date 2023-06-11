@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "Models/anonymous/anonymous_mask2"
+                "$bumpmap" "models\anonymous/anonymous_mask_normal"
+	"$halflambert" 1
+
+}
