@@ -1,0 +1,4 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/HogsOfWar/Weapons/mine001"
+"$halflambert" "1" "$nocull" "1"  }
