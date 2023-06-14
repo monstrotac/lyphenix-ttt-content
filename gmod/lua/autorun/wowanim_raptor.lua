@@ -1,2 +1,0 @@
-player_manager.AddValidModel( "WoWAnim_Raptor", "models/mailer/wow_characters/wowanim_raptor.mdl" );
-list.Set( "PlayerOptionsModel", "WoWAnim_Raptor", "models/mailer/wow_characters/wowanim_raptor.mdl" );

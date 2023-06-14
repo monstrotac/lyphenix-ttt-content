@@ -1,1 +1,0 @@
-LibK.addContentFolder( "materials/boosters" )
