@@ -1,5 +1,0 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "models/HogsOfWar/Weapons/handle"
-	"$alphatest" 1
-"$halflambert" "1" "$nocull" "1"  }
