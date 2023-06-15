@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"	"models\yuki\sao\kirito\Kirito_arm"
+	"$halflambert"	"1"
+	"$nocull"	"1"
+}

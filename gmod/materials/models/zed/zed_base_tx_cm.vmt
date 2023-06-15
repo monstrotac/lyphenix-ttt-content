@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\zed/zed_base_tx_cm"
+	"$model" "1"
+}

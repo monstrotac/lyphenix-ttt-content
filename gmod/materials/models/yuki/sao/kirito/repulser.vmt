@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"	"models\yuki\sao\kirito\repulser"
+	"$halflambert"	"1"
+	"$alphatest"	"1"
+
+}
