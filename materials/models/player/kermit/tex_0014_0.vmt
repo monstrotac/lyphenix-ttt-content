@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/kermit/Tex_0014_0"
+	"$halflambert" 1
+}

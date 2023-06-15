@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"	"models\yuki\sao\kirito\Kirito_hair"
+	"$halflambert"	"1"
+	"$nocull"	"1"
+}

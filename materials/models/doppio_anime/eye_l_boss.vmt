@@ -1,0 +1,6 @@
+"eyes"
+{
+	"$basetexture" "models/doppio_anime/sclera"
+	"$iris" "models/doppio_anime/iris_boss"
+	"$halflambert" 1
+}
