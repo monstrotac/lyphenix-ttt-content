@@ -1,6 +1,0 @@
-"eyes"
-{
-	"$basetexture" "models/diavolot_anime/eyetex"
-	"$iris" "models/diavolot_anime/iris"
-	"$halflambert" 1
-}
